@@ -1,0 +1,11 @@
+/backend/yolov5_env
+/backend/yolov5/Abnormal-Activities-1
+/backend/yolov5/Accident_Detection_Model-5
+/backend/yolov5/Assault-Detection-Program-8
+/backend/yolov5/crime-10
+/backend/yolov5/Robbery-Detection-6
+/backend/yolov5/Thief-Detection--1
+/backend/yolov5/Violence-Detection-1
+/backend/yolov5/yolov5s.pt
+/backend/yolov5/runs/train
+/backend/.env
